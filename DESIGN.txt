@@ -1,0 +1,24 @@
+Hetul Patel | 15711887
+CMPUT 379 Winter 2021
+Assignment 2
+
+Included Files:
+    notapp.c
+    newserver.c
+    nerserver.h
+    obsclient.c
+    obsclient.h
+    useclient.c
+    useclient.h
+    serialdeserial.c
+    serialdeserial.h
+
+In order to run please simple type make in the terminal, then ./notapp followed by the proper flags.
+You can also make clean.
+
+The handshake protocal between the clients and server is simply "use" for user client, and "obs" for observer client.
+
+I was unfortunately not able to implement any refinements, but majority of the Assignment still works well.
+
+Thanks!
+
