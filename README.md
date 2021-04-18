@@ -1,0 +1,2 @@
+# Multithreaded-Client-Server
+A multi-threaded client server program that can monitor files or directories using inotify in C. Two types of clients, one is the user and the other is the observer. The observer watches specified files or directories and relays the information to the server by serializing a struct. The server then sends that information to the user client and displays the information.
