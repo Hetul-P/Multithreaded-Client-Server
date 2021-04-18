@@ -18,7 +18,5 @@ You can also make clean.
 
 The handshake protocal between the clients and server is simply "use" for user client, and "obs" for observer client.
 
-I was unfortunately not able to implement any refinements, but majority of the Assignment still works well.
-
 Thanks!
 
